@@ -14,10 +14,6 @@ It then synthesizes a clinical summary using open-source models: **Qwen2.5‑VL*
 
 
 
-
-
-
-
 ## 🚀 Features
 
 - **Image analysis** with Qwen2.5‑VL
