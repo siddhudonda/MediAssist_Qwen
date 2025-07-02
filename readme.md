@@ -8,7 +8,12 @@
 
 It then synthesizes a clinical summary using open-source models: **Qwen2.5‑VL**, **Whisper**, and **Qwen‑Omni**.
 
----                                                          
+---                                                                                                  
+
+
+
+
+
 
 
 ## 🚀 Features 
